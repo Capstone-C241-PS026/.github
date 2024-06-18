@@ -14,10 +14,10 @@
 
 ## 📜 **About Lautify** 📜
 
-"Lautify" addresses the pressing need to ensure the freshness of seafood in Indonesia's agriculture and fisheries sector through an innovative mobile application. With abundant marine resources, distinguishing between fresh and less fresh fish remains challenging for consumers. Our project focuses on developing a user-friendly solution for detecting fish freshness, leveraging image processing techniques.
+"Lautify" focuses on simplifying the process of detecting fish freshness using advanced image processing techniques. In Indonesia's rich marine environment, ensuring the quality of fish is crucial but challenging for consumers. Our solution aims to provide a reliable and user-friendly tool to assess fish freshness quickly and accurately.
 
 ### MVP Features
 
-- **Fish Freshness Detection**: Users can capture a photo of the fish with their smartphone's camera. "Lautify" analyzes the image, focusing on the clarity of the fish's eyes to determine freshness.
+- **Fish Freshness Detection**: Users can take a photo of the fish using their smartphone's camera. "Lautify" analyzes key indicators like the clarity of the fish's eyes to determine its freshness.
 
-- **Recipe Recommendations**: Based on the type of fish detected, "Lautify" provides users with a list of recommended recipes for cooking the fish.
+- **Recipe Recommendations**: Upon detecting the type of fish, "Lautify" suggests tailored recipes to help users make the most of their fresh catch.
